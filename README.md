@@ -82,8 +82,10 @@ The untuned Gradient Boosting Regressor achieved the highest test R² of 0.8723 
 
 ## Academic Context
 
-Master of Science in Business Analytics  
-University of Limerick, Ireland
+Module: CS6471 – Artificial Intelligence and Machine Learning for Business 
+University: University of Limerick
+
+This project was completed as part of Master's coursework.
 
 
 
